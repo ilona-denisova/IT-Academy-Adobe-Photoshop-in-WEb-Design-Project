@@ -1,2 +1,2 @@
-# IT-Academy-Adobe-Photoshop-in-WEb-Design-Project
+# DC-Design-Project
 IT Academy (Adobe Photoshop in WEb-Design) Exam Project
